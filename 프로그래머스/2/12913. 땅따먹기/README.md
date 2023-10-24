@@ -1,10 +1,10 @@
 # [level 2] 땅따먹기 - 12913 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12913#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=swift) 
 
 ### 성능 요약
 
-메모리: 32.4 MB, 시간: 201.24 ms
+메모리: 52.4 MB, 시간: 42.51 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 2일 19:8:35
+2023년 10월 2일 19:18:7
 
 ### 문제 설명
 
